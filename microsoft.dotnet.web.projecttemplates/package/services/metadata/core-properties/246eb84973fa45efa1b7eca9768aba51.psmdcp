@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties">
+  <dc:creator>Microsoft</dc:creator>
+  <dc:description>ASP.NET Core Web Template Pack for Microsoft Template Engine
+
+To install the templates in this package, run 'dotnet new --install Microsoft.DotNet.Web.ProjectTemplates.6.0::6.0.0-preview.7.21378.6'.
+    
+
+This package was built from the source code at https://github.com/dotnet/aspnetcore/tree/330c2397160929d6d3275ade03cee436265258e8</dc:description>
+  <dc:identifier>Microsoft.DotNet.Web.ProjectTemplates.6.0</dc:identifier>
+  <version>6.0.0-preview.7.21378.6</version>
+  <keywords>aspnet templates</keywords>
+  <lastModifiedBy>NuGet.Build.Tasks.Pack, Version=6.0.0.158, Culture=neutral, PublicKeyToken=31bf3856ad364e35;</lastModifiedBy>
+</coreProperties>

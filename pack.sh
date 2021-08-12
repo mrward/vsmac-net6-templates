@@ -2,7 +2,9 @@ find . -name ".DS_Store" -delete
 
 rm artifacts/*.nupkg
 
-cp microsoft.dotnet.test.projecttemplates.*.nupkg artifacts/
+cd microsoft.dotnet.test.projecttemplates
+zip -r ../artifacts/microsoft.dotnet.test.projecttemplates.6.0.nupkg .
+cd ..
 
 cd microsoft.dotnet.common.projecttemplates
 zip -r ../artifacts/microsoft.dotnet.common.projecttemplates.6.0.nupkg .

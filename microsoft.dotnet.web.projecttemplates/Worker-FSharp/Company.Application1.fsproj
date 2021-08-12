@@ -5,7 +5,6 @@
     <UserSecretsId>dotnet-Company.Application1-53bc9b9d-9d6a-45d4-8429-2a2761773502</UserSecretsId>
     <NoDefaultLaunchSettingsFile Condition="'$(ExcludeLaunchSettings)' == 'True'">True</NoDefaultLaunchSettingsFile>
     <RootNamespace Condition="'$(name)' != '$(name{-VALUE-FORMS-}safe_namespace)'">Company.Application1</RootNamespace>
-    <UseAppHost>false</UseAppHost>
   </PropertyGroup>
 
 
@@ -15,6 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.0-preview.6.21352.12" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.0-preview.7.21377.19" />
   </ItemGroup>
 </Project>

@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
     <id>Microsoft.DotNet.Web.ProjectTemplates.6.0</id>
-    <version>6.0.0-preview.6.21355.2</version>
+    <version>6.0.0-preview.7.21378.6</version>
     <authors>Microsoft</authors>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <license type="expression">Apache-2.0</license>
@@ -11,16 +11,16 @@
     <projectUrl>https://asp.net/</projectUrl>
     <description>ASP.NET Core Web Template Pack for Microsoft Template Engine
 
-To install the templates in this package, run 'dotnet new --install Microsoft.DotNet.Web.ProjectTemplates.6.0::6.0.0-preview.6.21355.2'.
+To install the templates in this package, run 'dotnet new --install Microsoft.DotNet.Web.ProjectTemplates.6.0::6.0.0-preview.7.21378.6'.
     
 
-This package was built from the source code at https://github.com/dotnet/aspnetcore/tree/71dd6b0c87d7619668a40876d084d93db57eab41</description>
+This package was built from the source code at https://github.com/dotnet/aspnetcore/tree/330c2397160929d6d3275ade03cee436265258e8</description>
     <copyright>© Microsoft Corporation. All rights reserved.</copyright>
     <tags>aspnet templates</tags>
     <serviceable>true</serviceable>
     <packageTypes>
       <packageType name="Template" />
     </packageTypes>
-    <repository type="git" url="https://github.com/dotnet/aspnetcore" commit="71dd6b0c87d7619668a40876d084d93db57eab41" />
+    <repository type="git" url="https://github.com/dotnet/aspnetcore" commit="330c2397160929d6d3275ade03cee436265258e8" />
   </metadata>
 </package>
